@@ -11,4 +11,4 @@ struct scan_info {
 
 void scan_read_write();
 
-int scan_read(int scan_num); 
+int scan_read(int scan_num);  
