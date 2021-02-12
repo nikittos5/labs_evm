@@ -96,5 +96,5 @@ int main()
 	std::cin >> dx;
 	F(a, b, c, x_beg, x_end, dx, (int(a) | int(b) | int(c)));
 
-	return 0;
+	return 0; 
 }
