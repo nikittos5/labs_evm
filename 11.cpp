@@ -77,5 +77,5 @@ int scan_read(int scan_num)
 
 	in.close();
 
-	return 0; 
+	return 0;
 }
