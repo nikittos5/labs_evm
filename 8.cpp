@@ -98,5 +98,5 @@ int main()
 		std::cout << "\nЧтение неуспешно";
 
 	std::cout << "\n\n";
-	return 0;
+	return 0; 
 }
