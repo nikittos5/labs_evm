@@ -17,5 +17,5 @@ int main()
 		std::cout << "\nЧтение неудачно";
 
 	std::cout << "\n\n";
-	return 0;
+	return 0; 
 }
