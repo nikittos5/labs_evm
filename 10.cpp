@@ -116,5 +116,5 @@ int main()
 	compres_arr<double>(arr3, n);
 
 	std::cout << "\n\n";
-	return 0;
+	return 0; 
 }
