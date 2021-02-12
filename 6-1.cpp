@@ -70,5 +70,5 @@ int main()
 	
 	std::cout << "\n\nМаксимальная сумма на диагонали, параллельной главной равна: " << max_diag_sum;
 	std::cout << "\n\n";
-	return 0; 
+	return 0;
 }
